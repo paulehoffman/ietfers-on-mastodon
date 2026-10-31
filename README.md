@@ -7,3 +7,4 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Aaron Parecki: @aaronpk@aaronparecki.com
 - John Kristoff: @jtk@infosec.exchange
 - Jim Fenton: @jimfenton@infosec.exchange
+- Dan York: @danyork@mastodon.social
