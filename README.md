@@ -8,3 +8,4 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - John Kristoff: @jtk@infosec.exchange
 - Jim Fenton: @jimfenton@infosec.exchange
 - Dan York: @danyork@mastodon.social
+- Emelia Smith: @thisismissem.social@bsky.brid.gy (formerly @thisismissem@hachyderm.io)
