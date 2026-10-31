@@ -5,4 +5,5 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Paul Hoffman: @paulehoffman@infosec.exchange
 - Andy Newton: @andy@novalug.org
 - Aaron Parecki: @aaronpk@aaronparecki.com
-- John Kristoff @jtk@infosec.exchange
+- John Kristoff: @jtk@infosec.exchange
+- Jim Fenton: @jimfenton@infosec.exchange
