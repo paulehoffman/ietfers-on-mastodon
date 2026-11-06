@@ -11,3 +11,4 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Emelia Smith: @thisismissem.social@bsky.brid.gy (formerly @thisismissem@hachyderm.io)
 - Wes Hardaker: @hardaker@fosstodon.org
 - John Levine: @spamvictim@infosec.exchange (also @compcompilers@infosec.exchange, announcing newsgroup posts)
+- Olaf Kolkman: @olaf@social.secret-wg.org
