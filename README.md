@@ -7,6 +7,7 @@ There will be an informal gathering of all IETFers who are active (or even passi
 - Christian Amsüss: [@chrysn@chaos.social](https://chaos.social/@chrysn)
 - Christian Huitema: [@huitema@social.secret.org](https://social.secret-wg.org/@huitema)
 - Dan York: [@danyork@mastodon.social](https://mastodon.social/@danyork)
+- David Benjamin: [@davidben@infosec.exchange](https://infosec.exchange/@davidben)
 - Emelia Smith: @thisismissem.social@bsky.brid.gy (formerly @thisismissem@hachyderm.io)
 - Erik Nygren: [@nygren@hachyderm.io](https://hachyderm.io/@nygren) (redirected to by @erik@nygren.org)
 - IETF DNSOP WG (bot): [@ietf_wg_dnsop@hachyderm.io](https://hachyderm.io/@ietf_wg_dnsop)
